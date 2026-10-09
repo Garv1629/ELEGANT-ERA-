@@ -1,0 +1,12 @@
+{
+  "name": "elegant-era-interior-studio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "run_test.bat",
+    "submit": "node submit_test.js",
+    "start": "node server.js",
+    "dev": "node server.js",
+    "launch": "node launch.js"
+  }
+}

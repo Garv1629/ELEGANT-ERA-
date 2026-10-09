@@ -1,0 +1,72 @@
+[
+  {
+    "file": "src/shaders/landing-pages/LandingPages.tsx",
+    "bytes": 40525,
+    "expectedSha": "4d379461ad00eb4de7900df312878035383de7e1ed4e13283b8143a2eea9d30a",
+    "actualSha": "4d379461ad00eb4de7900df312878035383de7e1ed4e13283b8143a2eea9d30a",
+    "match": true
+  },
+  {
+    "file": "src/shaders/landing-pages/pageTypography.ts",
+    "bytes": 15028,
+    "expectedSha": "809cc65797d531cd3b3ca5a56815d55d24b3ee8d293e4e4bad6fdfe6c83244cc",
+    "actualSha": "809cc65797d531cd3b3ca5a56815d55d24b3ee8d293e4e4bad6fdfe6c83244cc",
+    "match": true
+  },
+  {
+    "file": "src/shaders/landing-pages/pageRecipes.ts",
+    "bytes": 74927,
+    "expectedSha": "c9d9849cc255bac2d1d938d088c50917f84916f1c516d2bbb27fcfd803523233",
+    "actualSha": "c9d9849cc255bac2d1d938d088c50917f84916f1c516d2bbb27fcfd803523233",
+    "match": true
+  },
+  {
+    "file": "src/shaders/landing-pages/LandingPageFrame.tsx",
+    "bytes": 6756,
+    "expectedSha": "61de2cc50888aac4ac5557420b07fa47ed3543bb57c1e0055fafdefa53dbaa78",
+    "actualSha": "61de2cc50888aac4ac5557420b07fa47ed3543bb57c1e0055fafdefa53dbaa78",
+    "match": true
+  },
+  {
+    "file": "src/shaders/threeui.css",
+    "bytes": 40715,
+    "expectedSha": "efe4447139f1358dd8e9be68edf6fa46cbefbd1de423a4d6c439ca61d2c8eccf",
+    "actualSha": "efe4447139f1358dd8e9be68edf6fa46cbefbd1de423a4d6c439ca61d2c8eccf",
+    "match": true
+  },
+  {
+    "file": "public/landing-pages/inner-green-3d.html",
+    "bytes": 198295,
+    "expectedSha": "69c3694bd63f44ef9f007ebe4dac57a83e4402e0cdf6b54dd10b96dd4f05e197",
+    "actualSha": "c5de3e42e1a088aeb2fe6a0430dedc03664ed02c59ec0fb9432b5724fb51ed61",
+    "match": false
+  },
+  {
+    "file": "public/landing-pages/inner-green-assets/three.min.js",
+    "bytes": 608081,
+    "expectedSha": "8a5f7249903b54d30f79f708699d2fed2d6a1d0741a4cd41377d1f01bb5a2271",
+    "actualSha": "8a5f7249903b54d30f79f708699d2fed2d6a1d0741a4cd41377d1f01bb5a2271",
+    "match": true
+  },
+  {
+    "file": "public/landing-pages/inner-green-assets/card-ecostove.jpg",
+    "bytes": 290988,
+    "expectedSha": "70ce084084902bc502f00c366405b661ecdff90dee95d363b36a6e146829e433",
+    "actualSha": "70ce084084902bc502f00c366405b661ecdff90dee95d363b36a6e146829e433",
+    "match": true
+  },
+  {
+    "file": "public/landing-pages/inner-green-assets/card-ethos.jpg",
+    "bytes": 316720,
+    "expectedSha": "337627390f499b3ae272cec9e2f83c817694a82f42e1aa10a7b26a2c7d679dff",
+    "actualSha": "337627390f499b3ae272cec9e2f83c817694a82f42e1aa10a7b26a2c7d679dff",
+    "match": true
+  },
+  {
+    "file": "public/landing-pages/inner-green-assets/lexend-latin.woff2",
+    "bytes": 39692,
+    "expectedSha": "1ec8f6ee2750554b4bc59ff0b507d316a82a7ba37e0e5bebc41d3bd9b9faad46",
+    "actualSha": "1ec8f6ee2750554b4bc59ff0b507d316a82a7ba37e0e5bebc41d3bd9b9faad46",
+    "match": true
+  }
+]

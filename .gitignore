@@ -1,0 +1,15 @@
+node_modules/
+.DS_Store
+Thumbs.db
+server.log
+data/*.log
+*.log
+.env
+.env.local
+find_process.js
+find_timeline_js.js
+git_setup.bat
+gitpush.js
+push.bat
+run_verify.bat
+verify_process_code.js

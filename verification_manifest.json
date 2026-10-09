@@ -1,0 +1,60 @@
+[
+  {
+    "path": "src/shaders/landing-pages/LandingPages.tsx",
+    "expected": "4d379461ad00eb4de7900df312878035383de7e1ed4e13283b8143a2eea9d30a",
+    "actual": "4d379461ad00eb4de7900df312878035383de7e1ed4e13283b8143a2eea9d30a",
+    "ok": true
+  },
+  {
+    "path": "src/shaders/landing-pages/pageTypography.ts",
+    "expected": "809cc65797d531cd3b3ca5a56815d55d24b3ee8d293e4e4bad6fdfe6c83244cc",
+    "actual": "809cc65797d531cd3b3ca5a56815d55d24b3ee8d293e4e4bad6fdfe6c83244cc",
+    "ok": true
+  },
+  {
+    "path": "src/shaders/landing-pages/pageRecipes.ts",
+    "expected": "c9d9849cc255bac2d1d938d088c50917f84916f1c516d2bbb27fcfd803523233",
+    "actual": "c9d9849cc255bac2d1d938d088c50917f84916f1c516d2bbb27fcfd803523233",
+    "ok": true
+  },
+  {
+    "path": "src/shaders/landing-pages/LandingPageFrame.tsx",
+    "expected": "61de2cc50888aac4ac5557420b07fa47ed3543bb57c1e0055fafdefa53dbaa78",
+    "actual": "61de2cc50888aac4ac5557420b07fa47ed3543bb57c1e0055fafdefa53dbaa78",
+    "ok": true
+  },
+  {
+    "path": "src/shaders/threeui.css",
+    "expected": "efe4447139f1358dd8e9be68edf6fa46cbefbd1de423a4d6c439ca61d2c8eccf",
+    "actual": "efe4447139f1358dd8e9be68edf6fa46cbefbd1de423a4d6c439ca61d2c8eccf",
+    "ok": true
+  },
+  {
+    "path": "public/landing-pages/inner-green-3d.html",
+    "actual": "ab1011882d39fa33bce5cd3fe3e327834df247382c3a286bd19d3cc9f21f2864",
+    "ok": true
+  },
+  {
+    "path": "public/landing-pages/inner-green-assets/three.min.js",
+    "actual": "6c5f13da9d060c1cc8ce8673e64556d0e24048f21cfa1b3b6549b129ed369c73",
+    "ok": true
+  },
+  {
+    "path": "public/landing-pages/inner-green-assets/card-ecostove.jpg",
+    "expected": "70ce084084902bc502f00c366405b661ecdff90dee95d363b36a6e146829e433",
+    "actual": "43ae093314586700167915b9d3dd0180ee0b53aef2b37258d8ced5b05b46ef66",
+    "ok": false
+  },
+  {
+    "path": "public/landing-pages/inner-green-assets/card-ethos.jpg",
+    "expected": "337627390f499b3ae272cec9e2f83c817694a82f42e1aa10a7b26a2c7d679dff",
+    "actual": "5c2c76c9f6c59bc85b28125ffcbbfec14d5b1b31eab3128e6d265f9576f5aeef",
+    "ok": false
+  },
+  {
+    "path": "public/landing-pages/inner-green-assets/lexend-latin.woff2",
+    "expected": "1ec8f6ee2750554b4bc59ff0b507d316a82a7ba37e0e5bebc41d3bd9b9faad46",
+    "actual": "64c45f7f30d52de9420a15ce41ba29e7a839bbcd855012aed8c53a1ba5cd0e2f",
+    "ok": false
+  }
+]
